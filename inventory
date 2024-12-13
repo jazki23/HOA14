@@ -2,4 +2,4 @@
 Server1 ansible_host=192.168.56.108 ansible_user=kier ansible_ssh_private_key_file=/home/kier/.ssh/id_rsa
 
 [centos]
-centOS ansible_host=192.168.56.110 ansible_user=cent ansible_ssh_private_key_file=/home/kier/.ssh/id_rsa
+centOS ansible_host=192.168.56.110 ansible_user=centos ansible_ssh_private_key_file=/home/kier/.ssh/id_rsa
